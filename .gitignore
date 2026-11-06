@@ -1,0 +1,17 @@
+# Patient-level data and generated results
+private_data/
+data/
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+outputs_*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
