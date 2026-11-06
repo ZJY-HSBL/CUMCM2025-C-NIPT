@@ -7,6 +7,14 @@
 
 This repository preserves the four originally submitted Python scripts, alongside a post-submission technical audit. The original code has **not** been independently validated or cleared for clinical use. See [Audit report](docs/AUDIT.md).
 
+## 竞赛获奖 / Award
+
+本队参加 **2025 年高教社杯全国大学生数学建模竞赛**，完成 C 题《NIPT 的时点选择与胎儿的异常判定》，**荣获本科组全国二等奖**。
+
+Our team received the **National Second Prize (Undergraduate Group)** in the 2025 CUMCM for Problem C.
+
+![2025 年高教社杯全国大学生数学建模竞赛本科组全国二等奖获奖证书](docs/award-certificate.jpg)
+
 ## 目录 / Contents
 
 | 文件 | 用途 |
