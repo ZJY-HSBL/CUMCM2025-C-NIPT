@@ -1,0 +1,11 @@
+# Dependencies used by the submitted scripts (unlocked archival list)
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+lifelines
+pyswarm
+openpyxl
